@@ -1,0 +1,5 @@
+//Volume Serial: (Get-WmiObject Win32_LogicalDisk -Filter "DeviceID='C:'").VolumeSerialNumber
+//Mac Address: (Get-NetAdapter | Where-Object {$_.Status -eq "Up"} | Select-Object -First 1).MacAddress
+//Motherboard Serial: Get-WmiObject Win32_BaseBoard | Select-Object SerialNumber
+//Disk Serial: Get-PhysicalDisk | Select-Object SerialNumber
+erkanbaba = "Volume Serial: 90E31C83 | Mac Address: 08-60-6E-6B-39-CD | Motherboard Serial: 121104428403483 | Disk Serial: WD-WCC1U1422430"
