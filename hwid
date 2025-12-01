@@ -4,4 +4,4 @@
 //Disk Serial: Get-PhysicalDisk | Select-Object SerialNumber
 
 
-erkanbaba = "Volume Serial: 90E31C83 | Mac Address: 08-60-6E-6B-39-CD | Motherboard Serial: 121104428403483 | Disk Serial: WD-WCC1U1422430"
+erkanbaba = "Volume Serial: 80E31C83 | Mac Address: 18-60-6E-6B-39-CD | Motherboard Serial: 021104428403483 | Disk Serial: CD-WCC1U1422430"
